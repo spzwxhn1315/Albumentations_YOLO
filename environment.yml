@@ -1,0 +1,54 @@
+name: Albumentations
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - bzip2=1.0.8=h2bbff1b_6
+  - ca-certificates=2025.7.15=haa95532_0
+  - colorama=0.4.6=py310haa95532_0
+  - expat=2.7.1=h8ddb27b_0
+  - libffi=3.4.4=hd77b12b_1
+  - openssl=3.0.17=h35632f6_0
+  - pip=25.2=pyhc872135_0
+  - python=3.10.18=h981015d_0
+  - setuptools=78.1.1=py310haa95532_0
+  - sqlite=3.50.2=hda9a48d_1
+  - tk=8.6.15=hf199647_0
+  - tqdm=4.67.1=py310h9909e9c_0
+  - tzdata=2025b=h04d1e81_0
+  - ucrt=10.0.22621.0=haa95532_0
+  - vc=14.3=h2df5915_10
+  - vc14_runtime=14.44.35208=h4927774_10
+  - vs2015_runtime=14.44.35208=ha6b5a95_10
+  - wheel=0.45.1=py310haa95532_0
+  - xz=5.6.4=h4754444_1
+  - zlib=1.2.13=h8cc25b3_1
+  - pip:
+      - albucore==0.0.24
+      - albumentations==2.0.8
+      - annotated-types==0.7.0
+      - imageio==2.37.0
+      - joblib==1.5.2
+      - lazy-loader==0.4
+      - networkx==3.4.2
+      - numpy==2.2.6
+      - opencv-python==4.12.0.88
+      - opencv-python-headless==4.12.0.88
+      - packaging==25.0
+      - pillow==11.3.0
+      - pydantic==2.11.7
+      - pydantic-core==2.33.2
+      - pyyaml==6.0.2
+      - qudida==0.0.4
+      - scikit-image==0.25.2
+      - scikit-learn==1.7.2
+      - scipy==1.15.3
+      - simsimd==6.5.2
+      - stringzilla==3.12.6
+      - threadpoolctl==3.6.0
+      - tifffile==2025.5.10
+      - typing-extensions==4.15.0
+      - typing-inspection==0.4.1
+prefix: D:\ProgramData\Anaconda3-2024.10-1\envs\Albumentations

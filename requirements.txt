@@ -1,0 +1,27 @@
+albucore==0.0.24
+albumentations==2.0.8
+annotated-types==0.7.0
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+imageio==2.37.0
+joblib==1.5.2
+lazy_loader==0.4
+networkx==3.4.2
+numpy==2.2.6
+opencv-python==4.12.0.88
+opencv-python-headless==4.12.0.88
+packaging==25.0
+pillow==11.3.0
+pydantic==2.11.7
+pydantic_core==2.33.2
+PyYAML==6.0.2
+qudida==0.0.4
+scikit-image==0.25.2
+scikit-learn==1.7.2
+scipy==1.15.3
+simsimd==6.5.2
+stringzilla==3.12.6
+threadpoolctl==3.6.0
+tifffile==2025.5.10
+tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
+typing-inspection==0.4.1
+typing_extensions==4.15.0
