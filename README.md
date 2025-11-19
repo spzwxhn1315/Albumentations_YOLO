@@ -132,7 +132,7 @@ root/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/Albumentations_YOLO.git
+git clone https://github.com/spzwxhn1315/Albumentations_YOLO.git
 cd Albumentations_YOLO
 ```
 
@@ -202,10 +202,9 @@ python augment_yolo.py
 
 ## 📄 许可证
 
-你可根据需要选择：MIT / Apache 2.0 / GPL / CC0
-需要我帮你选择最合适的许可证，也可以告诉我。
+本项目按 GNU Affero General Public License Version 3 (AGPL-3.0) 授权。
+你可以自由使用、修改和分发本项目，但如果你修改了本项目并通过网络提供服务，必须开源你的修改版本。详情请参阅项目根目录下的 LICENSE 文件。
 
 ---
 
-如果你想加入 **徽章（Badges）**, **项目 Logo**, **流程图**,
-或生成 **中英双语 README**，告诉我即可。
+
