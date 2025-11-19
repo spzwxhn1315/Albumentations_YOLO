@@ -1,4 +1,4 @@
-
+# Albumentations YOLO Augmentation Plus
 
 这是一个为 **YOLO 检测任务** 专门设计的 **高强度、多策略数据增强工具**。
 支持：
@@ -80,7 +80,7 @@ coral-new/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/spzwxhn1315/Albumentations_YOLO.git
+git clone https://github.com/你的用户名/Albumentations_YOLO.git
 cd Albumentations_YOLO
 ```
 
@@ -139,4 +139,5 @@ max_retry_per_image = 5                 # bbox 丢失重试次数
 
 ---
 
-
+如果你需要 **英文版 README / 更专业版 / 更简洁版 / 自定义图标版本**，告诉我即可。
+我也可以帮你自动生成徽章（Badges）、图示、项目 Logo。
